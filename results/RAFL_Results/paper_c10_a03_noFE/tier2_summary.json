@@ -1,0 +1,24 @@
+[
+  {
+    "method": "rafl",
+    "n_seeds": 1,
+    "best_global_acc_mean": 0.8174,
+    "best_global_acc_std": 0.0,
+    "final_global_acc_mean": 0.6968,
+    "final_global_acc_std": 0.0,
+    "best_avg_submodel_acc_mean": 0.7927,
+    "best_avg_submodel_acc_std": 0.0,
+    "final_avg_submodel_acc_mean": 0.7305428571428572,
+    "final_avg_submodel_acc_std": 0.0,
+    "avg_comm_waste_mean": 0.14775658960657412,
+    "avg_comm_waste_std": 0.0,
+    "final_comm_cost_mean": 4879375836.0,
+    "final_comm_cost_std": 0.0,
+    "final_energy_cost_mean": 4661.325845434289,
+    "final_energy_cost_std": 0.0,
+    "final_selection_fairness_mean": 0.5658709869174832,
+    "final_selection_fairness_std": 0.0,
+    "final_perf_fairness_mean": 0.005530545432098758,
+    "final_perf_fairness_std": 0.0
+  }
+]

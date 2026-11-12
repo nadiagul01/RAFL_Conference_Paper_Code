@@ -1,0 +1,24 @@
+[
+  {
+    "method": "fedavg",
+    "n_seeds": 1,
+    "best_global_acc_mean": 0.8788,
+    "best_global_acc_std": 0.0,
+    "final_global_acc_mean": 0.8694,
+    "final_global_acc_std": 0.0,
+    "best_avg_submodel_acc_mean": 0.2577857142857143,
+    "best_avg_submodel_acc_std": 0.0,
+    "final_avg_submodel_acc_mean": 0.22111428571428574,
+    "final_avg_submodel_acc_std": 0.0,
+    "avg_comm_waste_mean": 0.0,
+    "avg_comm_waste_std": 0.0,
+    "final_comm_cost_mean": 12369480000.0,
+    "final_comm_cost_std": 0.0,
+    "final_energy_cost_mean": 11715.61242287678,
+    "final_energy_cost_std": 0.0,
+    "final_selection_fairness_mean": 0.9009747506945829,
+    "final_selection_fairness_std": 0.0,
+    "final_perf_fairness_mean": 0.12723384987654315,
+    "final_perf_fairness_std": 0.0
+  }
+]

@@ -1,0 +1,2 @@
+seed,best_global,best_round,final_global,best_submodel,F_select,F_perf,waste_all_rounds,comm_e9,comm_GB,energy
+42,0.8082,920,0.7369,0.7928333333333333,0.9009747506945829,0.0007080199999999996,0.0,6.696483388,26.785933552,6949.170263902066

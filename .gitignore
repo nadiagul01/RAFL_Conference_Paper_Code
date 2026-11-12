@@ -1,0 +1,15 @@
+# dataset (CIFAR-10 is downloaded automatically by torchvision)
+data/
+# model checkpoints
+*.pt
+*.pth
+checkpoints/
+# smoke tests
+*_smoke/
+# python / editor
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
